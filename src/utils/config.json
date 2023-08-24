@@ -1,0 +1,11 @@
+{
+    "development": {
+      "username": "test",
+      "password": "teste@123",
+      "database": "minicurso_express",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+    
+  }
+  
